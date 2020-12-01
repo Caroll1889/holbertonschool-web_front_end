@@ -4,6 +4,10 @@
 <p align="center">
     <img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/11/que-es-html-1280x720.jpg" alt="Cookies image"></p>
 
+In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
+
+Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
+
 ## :closed_book: Resources 
 
 **Read or watch**
