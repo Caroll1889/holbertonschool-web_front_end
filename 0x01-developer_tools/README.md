@@ -2,7 +2,7 @@
 ### :open_file_folder: Specializations - Web Stack programming ― Front-end
 
 <p align="center">
-    <img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/0872ca9b19e11650e355.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20201209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201209T172833Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d293bc8d625afbd05d4e7bda32e39ce7d303269c7e18ca79f8eb06075f57509d" alt="Devtools"></p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6i72-fXK8faEdhzONkGqLHV6Vf85SWAg3w&usqp=CAU" alt="Devtools"></p>
 
 In this project, you will analyze this website https://dev-tools.hbtn.info/.
 
