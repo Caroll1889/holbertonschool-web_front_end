@@ -1,17 +1,17 @@
 # 0x03. Sass & Scss
-### Specializations - Web Stack programming ― Front-end
+### :open_file_folder: Specializations - Web Stack programming ― Front-end
 
 ![9936ba361a3962278900](https://user-images.githubusercontent.com/51680831/88959098-168c9d80-d267-11ea-8acf-cc47c2def921.jpg)
 
-## Resources
+## :closed_book: Resources
 
 **Read or watch**
-* Sass Basics
-* Sass control directives: @if, @for, @each and @while
-* Sass references
-* The Sass Way
+* [Sass Basics](https://sass-lang.com/guide)
+* [Sass control directives: @if, @for, @each and @while]()
+* [Sass references](https://sass-lang.com/documentation)
+* [The Sass Way]()
 
-## Learning Objectives
+## :bulb: Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, **without the help of Google:**
 
 ### **General**
@@ -115,3 +115,6 @@ Write a Sass file that creates H* tags, where ‘*’ is the size of the font us
 * `h1` must have font size equal to `1px`, `h2` must have font size equal to `2px`, etc.
 * You must create `H*` tags from 1 to 5
 * You must use `@for` statement
+
+## :black_nib: Authors 
+**Diahan Hudgson**  -  [Caroll1889](https://github.com/Caroll1889)
