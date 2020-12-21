@@ -25,3 +25,6 @@ At the end of this project, you are expected to be able to explain to anyone, **
 * Properties that work on flex elements vs flex container
 * Shorthands for flex
 * How to create a new page with flex in mind
+
+## :black_nib: Authors 
+**Diahan Hudgson**  -  [Caroll1889](https://github.com/Caroll1889)
