@@ -1,9 +1,9 @@
 # 0x04. Flexbox
-###  Specializations - Web Stack programming ― Front-end
+### :open_file_folder: Specializations - Web Stack programming ― Front-end
 
 ![FLEXBOX2](https://user-images.githubusercontent.com/51680831/89222196-3b03b500-d59a-11ea-996e-78a412688681.jpg)
 
-## Resources
+## :closed_book: Resources
 **Read or watch:**
 * A Complete Guide to Flexbox | CSS-Tricks
 * Flexbox Froggy - A game for learning CSS flexbox
@@ -16,7 +16,7 @@
 * CSS Flexible Box Layout Module Level 1
 * FLEX: A simple visual cheatsheet for flexbox
 
-## Learning Objectives
+## :bulb: Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, **without the help of Google:**
 * What is Flexbox?
 * How to convert float positioning to a flex display
