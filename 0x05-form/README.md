@@ -2,7 +2,7 @@
 ### :open_file_folder: Specializations - Web Stack programming ― Front-end
 
 <p align="center">
-    <img src="https://www.google.com.co/url?sa=i&url=https%3A%2F%2Fcareerkarma.com%2Fblog%2Fhtml-forms%2F&psig=AOvVaw1iGh_r1w_1rLtCBJtSC6bY&ust=1609871070844000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDy-qPzgu4CFQAAAAAdAAAAABAD" alt="Form Image"></p>
+    <img src="https://careerkarma.com/blog/wp-content/uploads/2020/03/html-forms.jpg" alt="Form Image"></p>
 
 ## Resources
 **Read or watch:**
