@@ -1,4 +1,4 @@
-//
+//Changing stack order using setTimeout
 
 const countPrimeNumbers = () => {
     let i, j;
