@@ -18,8 +18,8 @@
             let name = document.querySelector('#firstname').value
             let email = document.querySelector('#email').value
 
-            document.cookie = `firstname=${name}`
-            document.cookie = `email=${email}`
+            document.cookie = `firstname=${name}; max-age=864000; path=/`
+            document.cookie = `email=${email}; max-age=864000; path=/`
 
         }
 
