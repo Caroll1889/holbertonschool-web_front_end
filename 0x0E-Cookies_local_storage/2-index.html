@@ -26,16 +26,16 @@
         }
 
         function showCookies() {
-            let first = getCookie(name)
-            let emaill = getCookie(email)
+            let firstname = getCookie('firstname')
+            let em = getCookie('email')
             let paragraph = document.createElement('p')
-            let text = document.createTextNode(`Email: ${emaill} - Firstname: ${first}`)
+            let text = document.createTextNode(`Email: ${em} - Firstname: ${firstname}`)
             paragraph.appendChild(text)
             document.body.appendChild(paragraph)
         }
 
         function getCookie(name) {
-            let name = name + "=";
+            let cname = name + "=";
             let decodedCookie = decodeURIComponent(document.cookie);
             let ca = decodedCookie.split(';');
             for (let i = 0; i < ca.length; i++) {
@@ -43,8 +43,8 @@
                 while (c.charAt(0) == ' ') {
                     c = c.substring(1);
                 }
-                if (c.indexOf(name) == 0) {
-                    return c.substring(name.length, c.length);
+                if (c.indexOf(cname) == 0) {
+                    return c.substring(cname.length, c.length);
                 }
             }
             return "";
