@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Task 2</title>
+    <title>Task 3</title>
 </head>
 
 <body>
@@ -76,10 +76,13 @@
 
                 let h1 = document.createElement('h1')
                 h1.setAttribute('id', 'welcome')
-                h1.innerText = `Welcome ${firstName}`
+                h1.innerText = `Welcome: ${firstName}`
 
                 let a = document.createElement('a')
                 a.innerText = '(logout)'
+                a.style.fontStyle = 'italic'
+                a.style.marginLeft = '10px'
+                a.style.fontWeight = 'normal'
                 a.addEventListener('click', deleteCookiesAndShowForm)
 
                 h1.appendChild(a)
