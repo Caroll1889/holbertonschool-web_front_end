@@ -6,7 +6,7 @@
 ***
 ***
 
-| <p align="center">PROYECT</p>  |
+| <p align="center">PROYECTS</p>  |
 |---|
 | [0x00. Advanced HTML](https://intranet.hbtn.io/projects/582) | |
 | [0x01. Developer tools](https://intranet.hbtn.io/projects/590) | |
