@@ -8,21 +8,21 @@
 
 | <p align="center">PROYECTS</p>  |
 |---|
-| [0x00. Advanced HTML](https://intranet.hbtn.io/projects/582) | |
-| [0x01. Developer tools](https://intranet.hbtn.io/projects/590) | |
-| [0x02. Advanced CSS](https://intranet.hbtn.io/projects/583) |  |
-| [0x03. Sass & Scss](https://intranet.hbtn.io/projects/363) |  |
-| [0x04. Flexbox](https://intranet.hbtn.io/projects/598) |  |
-| [0x05. Forms](https://intranet.hbtn.io/projects/599) |  |
-| [0x06. Responsive design](https://intranet.hbtn.io/projects/600) |  |
-| [0x07. Accessibility](https://intranet.hbtn.io/projects/601) |  |
-| [0x09. Implement a design from scratch](https://intranet.hbtn.io/projects/622) |  |
-| [0x0A. Bootstrap](https://intranet.hbtn.io/projects/623) |  |
-| [0x0B. Implement a design with bootstrap](https://intranet.hbtn.io/projects/624) |  |
-| [0x0C. JavaScript advanced](https://intranet.hbtn.io/projects/625) |  |
-| [0x0E. Cookies & local storage](https://intranet.hbtn.io/projects/627) |  |
-| [0x0D. jQuery advanced](https://intranet.hbtn.io/projects/626) |  |
-| [0x0F. Build a web app in JavaScript](https://intranet.hbtn.io/projects/628) |  |
+| [0x00. Advanced HTML](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x00-html_advanced) | |
+| [0x01. Developer tools](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x01-developer_tools) | |
+| [0x02. Advanced CSS](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x02-CSS_advanced) |  |
+| [0x03. Sass & Scss](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x03-sass_scss) |  |
+| [0x04. Flexbox](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x04-flexbox) |  |
+| [0x05. Forms](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x05-form) |  |
+| [0x06. Responsive design](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x06-responsive_design) |  |
+| [0x07. Accessibility](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x07-accessibility) |  |
+| [0x09. Implement a design from scratch](https://github.com/Caroll1889/holberton-headphones) |  |
+| [0x0A. Bootstrap](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x0A-Bootstrap) |  |
+| [0x0B. Implement a design with bootstrap](https://github.com/Caroll1889/holberton-smiling-school) |  |
+| [0x0C. JavaScript advanced](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x0C-Javascript_advanced) |  |
+| [0x0E. Cookies & local storage](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x0E-Cookies_local_storage) |  |
+| [0x0D. jQuery advanced](https://github.com/Caroll1889/holbertonschool-web_front_end/tree/master/0x0D-JQuery_advanced) |  |
+| [0x0F. Build a web app in JavaScript](https://github.com/Caroll1889/holberton-smiling-school-javascript) |  |
 
 ***
 ***
